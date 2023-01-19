@@ -37,7 +37,7 @@ function App() {
         {name: 'entrada', id: HOUSE_SPACES.ENTRANCE},
         {name: 'comedor', id: HOUSE_SPACES.DINNING},
         {name: 'cocina', id: HOUSE_SPACES.KITCHEN},
-        {name: 'garage', id: HOUSE_SPACES.GARAGE},
+        {name: 'garaje', id: HOUSE_SPACES.GARAGE},
         {name: 'sala', id: HOUSE_SPACES.LIVING},
         {name: 'habitación principal', id: HOUSE_SPACES.MAIN_ROOM},
         {name: 'habitación 2', id: HOUSE_SPACES.ROOM_2},
