@@ -88,7 +88,7 @@ function App() {
                 image={currentImage.imageUrl}
                 pitch={currentImage.pitch}
                 yaw={currentImage.yaw}
-                hfov={140}
+                hfov={120}
                 autoLoad
             >
                 {currentImage.hotspots.map((hotspot) => (
