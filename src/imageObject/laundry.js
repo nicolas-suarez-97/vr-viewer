@@ -4,7 +4,7 @@ import { HOUSE_SPACES } from '../utils/contants'
 const Laundry = {
     imageUrl: image,
     pitch: 0,
-    yaw: 70,
+    yaw: -130,
     hotspots: [
         {
             pitch: -1,
