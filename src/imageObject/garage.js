@@ -4,7 +4,7 @@ import { HOUSE_SPACES } from '../utils/contants'
 const Garage = {
     imageUrl: image,
     pitch: 0,
-    yaw: 40,
+    yaw: 0,
     hotspots: [
         {
             pitch: -1,
